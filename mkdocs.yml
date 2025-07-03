@@ -1,0 +1,17 @@
+site_name: Alex's Dev Hub
+theme:
+  name: material
+  language: en
+  palette:
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep purple
+      accent: lime
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: amber
+nav:
+  - Home: index.md
+  - Projects: projects.md
+  - About: about.md
