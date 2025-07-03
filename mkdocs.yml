@@ -1,4 +1,6 @@
-site_name: Alex's Dev Hub
+site_name: xljdev
+site_url: https://xljdev.github.io
+use_directory_urls: false
 theme:
   name: material
   language: en
